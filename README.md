@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmulyaVellankii
 - 👀 I’m interested in Coding and SecOps
-- 🌱 I’m currently learning CyberSecurity
+- 🌱 I’m currently learning CyberSecurity Engineering
 - 💞️ I’m looking to collaborate on ...
 
 
